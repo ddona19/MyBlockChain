@@ -27,9 +27,4 @@ Ensure you have Python installed on your system. You can download it from [pytho
 
 ### Steps to Run
 
-1. Clone or download this repository.
-2. Navigate to the project directory.
-3. Run the Python script using:
-
-   ```bash
-   python main.py
+The code is in a python notebook provided you have both python and jupyternotebook installed you should be able ot run it's cells.
